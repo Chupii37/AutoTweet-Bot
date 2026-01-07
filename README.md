@@ -1,6 +1,16 @@
 # Auto Tweet Bot for X.com
 
-Automatically posts tweets 2 times per week with random scheduling across multiple content categories.
+⚠️ **DISCLAIMER** ⚠️
+
+This software is provided for **educational and informational purposes only**. By using this bot, you agree to the following:
+
+1. **Twitter/X Compliance**: You are responsible for ensuring your use complies with [Twitter's Terms of Service](https://twitter.com/en/tos) and [Automation Rules](https://help.twitter.com/en/rules-and-policies/twitter-automation).
+2. **Account Risk**: Use of automation may result in account suspension or termination. The authors are **not responsible** for any account penalties.
+3. **No Warranty**: This software is provided "as is" without warranty of any kind.
+4. **No Financial Advice**: Content generated is for entertainment/educational purposes only, not financial advice.
+5. **Legal Compliance**: You must comply with all applicable laws in your jurisdiction.
+
+**USE AT YOUR OWN RISK. THE AUTHORS ASSUME NO LIABILITY.**
 
 ## Features
 
