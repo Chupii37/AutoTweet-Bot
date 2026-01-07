@@ -1,0 +1,22 @@
+{
+  "rotation": {
+    "daily": true,
+    "keep_days": 30,
+    "compress_old": true,
+    "max_size_mb": 10
+  },
+  "levels": {
+    "file": "INFO",
+    "console": "INFO",
+    "error_file": "ERROR"
+  },
+  "files": {
+    "daily_prefix": "app_",
+    "error_file": "error.log",
+    "combined_file": "combined.log"
+  },
+  "format": {
+    "file": "%(asctime)s - %(name)s - %(levelname)s - %(message)s",
+    "console": "%(levelname)s - %(message)s"
+  }
+}
