@@ -1,0 +1,265 @@
+# Auto Tweet Bot Python - Git Ignore File
+
+# ============================================
+# ENVIRONMENT & CONFIGURATION
+# ============================================
+
+# Environment variables (NEVER commit these!)
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.env.*
+!.env.example
+
+# Configuration files with secrets
+config/secrets.json
+config/credentials.json
+config/*.key
+config/*.pem
+
+# ============================================
+# PYTHON SPECIFIC
+# ============================================
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+.hypothesis/
+.pytest_cache/
+cover/
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type analyzer
+.pytype/
+
+# profiling data
+.prof
+
+# ============================================
+# DEVELOPMENT & EDITOR FILES
+# ============================================
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+
+# Editors
+*.sublime-project
+*.sublime-workspace
+
+# Visual Studio Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# ============================================
+# APPLICATION SPECIFIC
+# ============================================
+
+# Application logs
+storage/logs/*.log
+!storage/logs/.gitkeep
+
+# Tweet history (contains sensitive data)
+storage/history.json
+!storage/history.example.json
+
+# Generated images/media
+storage/images/*
+!storage/images/.gitkeep
+
+# Temporary files
+*.tmp
+*.temp
+temp/
+tmp/
+
+# Cache files
+.cache/
+cache/
+
+# Database files (if any)
+*.db
+*.sqlite
+*.sqlite3
+
+# ============================================
+# VIRTUAL ENVIRONMENTS
+# ============================================
+
+# Virtual environments
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Python virtual environment
+pythonenv/
+
+# Virtual environment wrapper
+.virtualenvs/
+
+# Pipenv
+Pipfile.lock
+
+# Poetry
+poetry.lock
+
+# ============================================
+# OPERATING SYSTEM FILES
+# ============================================
+
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+desktop.ini
+Thumbs.db
+ehthumbs.db
+[Dd]esktop.ini
+$RECYCLE.BIN/
+
+# Linux
+*~
+
+# ============================================
+# TESTING & DEPLOYMENT
+# ============================================
+
+# Test data
+test_data/
+test_output/
+
+# Deployment files
+deploy/
+.dockerignore
+Dockerfile.local
+
+# ============================================
+# BACKUP FILES
+# ============================================
+
+# Backup files
+*.bak
+*.backup
+*.old
+
+# ============================================
+# MISC
+# ============================================
+
+# Sphinx documentation
+docs/_build/
+
+# PyBuilder
+.pybuilder/
+target/
+
+# Ipython
+profile_default/
+ipython_config.py
+
+# Profiling
+.python-version
+
+# Complexity
+output.txt
+
+# mypy
+.mypy_cache/
+
+# ruff
+.ruff_cache/
+
+# Bandit security tool
+.bandit
+
+# Security scan results
+security_scan.txt
+
+# ============================================
+# GIT HOOKS (Keep our hooks)
+# ============================================
+!.git/hooks/
+.git/hooks/*.sample
+
+# ============================================
+# KEEP EMPTY DIRECTORIES
+# ============================================
+# These files keep empty directories in git
+!storage/.gitkeep
+!storage/logs/.gitkeep
+!storage/images/.gitkeep
+!config/.gitkeep
+!src/.gitkeep
+!src/core/.gitkeep
+!src/content/.gitkeep
+!src/content/data/.gitkeep
+!src/content/generators/.gitkeep
+!src/utils/.gitkeep
