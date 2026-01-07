@@ -1,0 +1,44 @@
+==================================================================
+                   AUTO TWEET BOT DISCLAIMER
+==================================================================
+
+IMPORTANT: READ THIS DISCLAIMER CAREFULLY BEFORE USING THIS SOFTWARE
+
+1. PURPOSE
+   This software is designed for EDUCATIONAL PURPOSES ONLY to demonstrate
+   Twitter/X API integration and automated content generation.
+
+2. NO WARRANTY
+   This software is provided "AS IS" without any warranties, express or
+   implied. The authors disclaim all warranties including, without
+   limitation, warranties of merchantability, fitness for a particular
+   purpose, and non-infringement.
+
+3. RISK ACKNOWLEDGEMENT
+   Using automation on Twitter/X carries inherent risks including but not
+   limited to:
+   - Account suspension or permanent ban
+   - Loss of data or access
+   - Legal action by Twitter/X
+   - Violation of platform terms
+
+4. USER RESPONSIBILITIES
+   You agree to:
+   - Comply with Twitter/X Terms of Service
+   - Not spam or harass other users
+   - Not post illegal or harmful content
+   - Monitor and moderate automated content
+   - Accept all risks associated with use
+
+5. LIMITATION OF LIABILITY
+   In no event shall the authors be liable for any damages whatsoever
+   (including, without limitation, damages for loss of profits, business
+   interruption, loss of information) arising out of the use or inability
+   to use this software.
+
+6. INDEMNIFICATION
+   You agree to indemnify and hold harmless the authors from any claims,
+   damages, losses, or expenses arising from your use of this software.
+
+By using this software, you acknowledge you have read this disclaimer
+and agree to be bound by its terms.
