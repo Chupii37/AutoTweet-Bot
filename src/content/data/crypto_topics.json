@@ -1,0 +1,39 @@
+{
+  "topics": [
+    "Bitcoin", 
+    "Ethereum", 
+    "DeFi", 
+    "NFTs", 
+    "Web3", 
+    "Smart Contracts",
+    "Staking", 
+    "Layer 2 Solutions", 
+    "Crypto Regulation",
+    "Mining", 
+    "Wallets", 
+    "DEXs"
+  ],
+  "templates": [
+    "Thoughts on {topic} in 2026? 🤔 #Crypto",
+    "The future of {topic} looks promising! 🚀",
+    "Just read an interesting analysis about {topic}...",
+    "{topic} is changing the game! {hashtag}",
+    "Anyone else excited about {topic} developments?",
+    "How do you think {topic} will evolve this year?",
+    "The {topic} ecosystem is growing rapidly 📈"
+  ],
+  "hashtags": [
+    "#Crypto", 
+    "#Bitcoin", 
+    "#Ethereum", 
+    "#Blockchain", 
+    "#Web3",
+    "#DeFi", 
+    "#NFT", 
+    "#Cryptocurrency", 
+    "#CryptoNews",
+    "#DigitalAssets", 
+    "#BTC", 
+    "#ETH"
+  ]
+}
