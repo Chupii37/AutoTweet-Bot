@@ -1,10 +1,3 @@
-#!/usr/bin/env python3
-"""
-Auto Tweet Bot - Main Entry Point
-===============================
-Run your bot with: python run.py
-"""
-
 import os
 import sys
 import argparse
@@ -118,8 +111,7 @@ def show_banner():
     """Display ASCII art banner"""
     banner = """
     ╔═══════════════════════════════════════════╗
-    ║      🐦 AUTO TWEET BOT FOR X.COM 🚀      ║
-    ║           Python Edition v1.0             ║
+    ║      🐦 AUTO TWEET BOT FOR X.COM 🚀       ║
     ╚═══════════════════════════════════════════╝
     """
     print(banner)
