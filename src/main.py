@@ -1,9 +1,3 @@
-#!/usr/bin/env python3
-"""
-Auto Tweet Bot for X.com
-Posts tweets 2x a week randomly with various content categories
-"""
-
 import sys
 import os
 from pathlib import Path
